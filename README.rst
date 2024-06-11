@@ -1,3 +1,10 @@
+This fork is archived
+=====================
+
+This fork existed for pre-release use of https://github.com/xperseguers/t3ext-extractor/commit/93e9db04fe3bfbafb9fbf8a650bdc247ef425977, which has since made it into the upstream `causal/extractor` package.
+
+Thus, this fork is now archived. Please switch to the upstream package.
+
 Metadata and content analysis service
 =====================================
 
